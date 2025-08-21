@@ -17,6 +17,13 @@ public class SystemMain {
 
         System.out.println("featrue sun is ready");
 
+
+        planet1 xros=new planet1();
+        xros.color="red";
+        xros.temp="12121212k";
+        System.out.println("the planet1 is ready");
+
+
     }
 
 }
