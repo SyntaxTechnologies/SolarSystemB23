@@ -17,6 +17,11 @@ public class SystemMain {
 
         System.out.println("featrue sun is ready");
 
+        planet2 meros =new planet2();
+        meros.color="black";
+        meros.temp="90000000000k";
+        System.out.println("planet 2 launch");
+
     }
 
 }
